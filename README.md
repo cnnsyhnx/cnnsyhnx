@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫 Muhammed Seyhan
 🔭 I’m currently working on PityApp
 
 🌱 I’m currently learning FullStack Development
