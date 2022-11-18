@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Seyhan</h1>
 <h3 align="center">A passionate IOS developer from Poland 🇵🇱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnnsyhnx&label=Profile%20views&color=0e75b6&style=flat" alt="cnnsyhnx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cnnsyhnx" alt="cnnsyhnx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/canthedev" target="blank"><img src="https://img.shields.io/twitter/follow/canthedev?logo=twitter&style=for-the-badge" alt="canthedev" /></a> </p>
-
 - 🔭 I’m currently working on [Stably](https://github.com/cnnsyhnx/Stably)
 
 - 👨‍💻 All of my projects are available at [github.com/cnnsyhnx](github.com/cnnsyhnx)
