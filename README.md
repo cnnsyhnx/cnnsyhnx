@@ -1,7 +1,7 @@
 # 💫 Muhammed Seyhan
 🔭 I’m currently working on PityApp
 
-🌱 I’m currently learning FullStack Development
+🌱 I’m currently learning more about iOS Development
 
 💬 Ask me about Swift,SwiftUI,HTML,CSS,JavaScript
 
