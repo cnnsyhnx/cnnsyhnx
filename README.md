@@ -34,5 +34,5 @@ I'm the kind of dev who debugs his dreams. Literally.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Jan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cnnsyhnx&show_icons=true&theme=radical" alt="Jan's GitHub Stats" />
 </p>
