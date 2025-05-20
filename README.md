@@ -45,8 +45,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cnnsyhnx/cnnsyhnx/output/snake.svg" alt="Snake animation" />
 
 ###
