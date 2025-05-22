@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link) (send a DM, I don’t bite)
+- 💼 [LinkedIn](https://linkedin.com/in/cnnsyhnx) (send a DM, I don’t bite)
 - 🧠 Just curious? Drop me a message in any of my repos!
 
 ---
