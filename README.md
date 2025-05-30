@@ -16,8 +16,9 @@
 ---
 
 ### 🔭 What I'm Working On
-- 🧠 Training a multi-role GPT-2 assistant
-- 🧪 Building a PyTorch + RAG demo
+- 🧠 Training a multi-role GPT-2 assistant  
+- 🧪 Building a PyTorch + RAG demo  
+- 👁️‍🗨️ [**CrowdInsight**](https://github.com/cnnsyhnx/CrowdInsight) — an AI-powered Python library that analyzes and classifies people visiting specific areas via surveillance feeds (e.g. adult, child, dog, etc.), generating actionable data for businesses like hotels, restaurants, and public spaces.  
 - 💡 Designing a next-gen CV builder (think Revolut meets Notion)
 
 ---
